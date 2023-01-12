@@ -1,0 +1,4 @@
+GREAT=out_trunc
+GREATGREAT=out_append
+LESS=in_file
+LESSLESS=in_prompt
